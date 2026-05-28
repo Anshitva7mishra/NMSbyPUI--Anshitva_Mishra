@@ -523,7 +523,7 @@ RAZORPAY_SECRET=
 
 ```bash
 # Clone the repository
-git clone "<repo_Name>"
+git clone "<Yaha humare Laala and Laaliyo hum apni actual project repo daalenge>"
 cd puionnpm-backend
 
 # Install dependencies
